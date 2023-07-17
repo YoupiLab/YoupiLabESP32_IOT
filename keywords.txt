@@ -1,0 +1,14 @@
+# Syntax Coloring Map For YoupiLabEsp8266
+
+# Datatypes (KEYWORD1)
+ YoupiLabESP32_IOT   KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+executeAnAction KEYWORD2
+send_Data KEYWORD2
+countData KEYWORD2
+veriyAndConnectToWifi KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
